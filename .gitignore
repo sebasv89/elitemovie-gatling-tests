@@ -1,0 +1,6 @@
+target/*
+.DS_Store
+.cache-tests
+.classpath
+.project
+.settings/
